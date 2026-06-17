@@ -1,4 +1,5 @@
 package srp;
+
 import srp.services.UserManager;
 
 public class Main {
